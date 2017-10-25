@@ -22,6 +22,4 @@ Here are some key things to know about me:
 - I get creative in Tableau with data and have honed my knowledge of working with data at various levels to make insights visible.
 - I love being engaged in my work and crave projects that require thinking.
 
-### My History
-
-Check my [LinkedIn](https://www.linkedin.com/in/andrewmiller09/)!!!
+**Check my** [LinkedIn](https://www.linkedin.com/in/andrewmiller09/)!!!
