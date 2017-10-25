@@ -2,7 +2,7 @@
 layout: post
 title: The Seekers
 tags: [random, conference, engagement]
-bigimg: /img/seekers_01.jpg
+bigimg: /psuanm5030.github.io/img/seekers_01.jpg
 ---
 
 I am sitting here at the Inspire 2016 Conference in sunny San Diego listening to Dean Stoecker's (CEO of Alteryx which is a data blending and "jack of all trades" manipulation tool) keynote about analytics and Alteryx.  He was very inspiring about how self-service analytics is taking over the world, generating great efficiencies and insights.  I love it.  One of the key pieces of his talk was in reference to a trilogy of books by Daniel Borstin. The Discoverers, The Creators, and The Seekers ([Wikipedia link](https://en.m.wikipedia.org/wiki/The_Seekers_(book))).  These books take you through history in the eyes of some of the most prolific Discoverers, Creators, and Seekers.  **This trio of classifications spoke to me, primarily because I feel that these are REALLY important characteristics of being successful in the field of analytics.**
