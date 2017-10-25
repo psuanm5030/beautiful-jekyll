@@ -24,6 +24,7 @@ description: Hello there! I’m Andy, a creative, driven data science generalist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Portfolio: "portfolio"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -55,29 +56,25 @@ avatar: "/img/apple-icon-precomposed.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Andy Miller
   email: "andy@vizelement.com"
   github: psuanm5030   
   twitter: hellosyd  
-  linkedin: yourname       
-  stackoverflow: yourlink  
-  telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+  linkedin: andrewmiller09       
+  stackoverflow: theStud54  
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
-  stackoverflow: false
+  stackoverflow: true
   snapchat: false
   instagram: false
   youtube: false
@@ -89,14 +86,15 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
+  linkedin: true
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "psuanm5030.github.io"  
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -122,7 +120,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -216,6 +214,3 @@ prose:
 
 plugins:
   - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
