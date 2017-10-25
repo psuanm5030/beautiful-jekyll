@@ -44,4 +44,4 @@ Before I started actually building charts, I made a listing of key areas to inve
 
 Check out the finished product below, complete with my analysis and conclusions embedded within! (best viewed [here](https://public.tableau.com/profile/andy.miller#!/vizhome/RescueTimeAnalysis_0/TheMission))  
 
-<iframe src="https://public.tableau.com/views/RescueTimeAnalysis_0/TheMission?:embed=y&:loadOrderID=0&:display_count=yes" height="1050" width="1000"></iframe>
+<iframe src="https://public.tableau.com/views/RescueTimeAnalysis_0/TheMission?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no" height="1050" width="1000"></iframe> 

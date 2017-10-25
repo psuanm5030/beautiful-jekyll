@@ -11,7 +11,7 @@ One of the coolest websites out there is [Untapped](https://untappd.com/), which
 
 The other night I decided to connect to [Untapped](https://untappd.com/) and pull down some details about Pittsburgh breweries to share as a blog post. I was really focused on sharing the universe of breweries, their locations, and most popular beers. I knew Tableau was the perfect medium – so created a visualization that showed that information. Here is the final visualization I produced and posted. I hope you find this handy and interesting!  
 
-<iframe src="https://public.tableau.com/profile/andy.miller#!/vizhome/PittsburghBrewingScene/PittsburghCraftBrewing" height="827" width="1000"></iframe>  
+<iframe src="https://public.tableau.com/views/PittsburghBrewingScene/PittsburghCraftBrewing?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no" height="827" width="1000"></iframe>  
 
 [Best Viewed on Tableau Site](https://public.tableau.com/profile/andy.miller#!/vizhome/PittsburghBrewingScene/PittsburghCraftBrewing)
 
