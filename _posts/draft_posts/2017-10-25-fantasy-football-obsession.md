@@ -5,7 +5,7 @@ tags: [fantasy football]
 image: /psuanm5030.github.io/img/rescuetime_01.png
 ---
 
-Earlier this summer, I decided that I was going to be prepared for my Fantasy Football draft this year.  No more last minute printouts and scrambling to listen to the latest podcasts.  For years, I have been under-prepared for my drafts, however, I still believe my mental model is sharp!  I tend to think I have a unique philosophy, a model (in my head) which considers more than just Yahoo/ESPNs latest rankings.  In the past few years, I have been working with the python and data sources such as Yahoo Fantasy Sports API and nfldb, and I finally felt like I had the time and, more importantly, the knowledge to employ my mental model in a structured and data-driven fashion.  This post outlines this fun project!
+Earlier this summer, I decided that I was going to be prepared for my Fantasy Football draft this year.  No more last minute printouts and scrambling to listen to the latest podcasts.  For years, I have been under-prepared for my drafts, however, I still believe my mental model is sharp!  I tend to think I have a unique philosophy, a model (in my head) which considers more than just Yahoo/ESPNs latest rankings.  In the past few years, I have been working with the python and data sources such as [Yahoo Fantasy Sports API](https://developer.yahoo.com/fantasysports/guide/) and [nfldb](https://github.com/BurntSushi/nfldb/), and I finally felt like I had the time and, more importantly, the knowledge to employ my mental model in a structured and data-driven fashion.  This post outlines this fun project!
 
 Overall
 
