@@ -28,7 +28,7 @@ Below:
    
 **Tools:**  ACL, ACL Server, Python, R  
 
-![Audit Manual](/andymiller/assets/img/Internal Audit Manual - Contents.png){:height="50%" width="50%" style="
+![Audit Manual](/psuanm5030.github.io/img/Internal Audit Manual - Contents.png){:height="50%" width="50%" style="
     display: block;
     margin: 0 auto;
 "}
@@ -43,7 +43,7 @@ Below:
  
 **Tools:** ACL, ACL Server, Python, R, Tableau  
 
-![TE Audit Program](/andymiller/assets/img/TE Audit Program.png){:height="80%" width="80%" style="
+![TE Audit Program](/psuanm5030.github.io/img/TE Audit Program.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
 "}
@@ -58,7 +58,7 @@ Below:
  
 **Tools:** Tableau, Alteryx  
 
-![Portfolio Opportunity Analysis](/andymiller/assets/img/Portfolio Opportunity Analysis.png){:height="80%" width="80%" style="
+![Portfolio Opportunity Analysis](/psuanm5030.github.io/img/Portfolio Opportunity Analysis.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
 "}
@@ -76,7 +76,7 @@ Below:
 
 **Tools:** Tableau, Alteryx  
 
-![Pharma Market Dashboards](/andymiller/assets/img/Pharma Market Dashboards.png){:height="80%" width="80%" style="
+![Pharma Market Dashboards](/psuanm5030.github.io/img/Pharma Market Dashboards.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
 "}
@@ -91,7 +91,7 @@ Below:
  
 **Tools:** Tableau, Alteryx  
 
-![Customer Call Analysis](/andymiller/assets/img/Customer Calls.png){:height="80%" width="80%" style="
+![Customer Call Analysis](/psuanm5030.github.io/img/Customer Calls.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
 "}
@@ -117,7 +117,7 @@ Below:
 
 **Tools:** Sharepoint, Alteryx, Tableau  
 
-![Operational Scorecards](/andymiller/assets/img/Operational Scorecard.png){:height="80%" width="80%" style="
+![Operational Scorecards](/psuanm5030.github.io/img/Operational Scorecard.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
 "}
