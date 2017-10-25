@@ -17,7 +17,7 @@ baseurl: ""
 title: Andy Miller
 
 # Short description of your site
-description: Hello there! I’m Andy, a creative, driven data science generalist.  It took me years to discover my passion for data and analytics, as I began my career as a CPA working for an accounting giant.  Over the course of a few years, I gradually shifted my career path.  I am happy to work full-time with data to produce analytics.
+description: Andy's personal website, including a portfolio, blog and key links.
 
 # --- Navigation bar options --- #
 
@@ -27,8 +27,8 @@ navbar-links:
   Portfolio: "portfolio"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/andrewmiller09/"
-    - Alteryx 2017 Session: "http://www.markdowntutorial.com/"
-    - Tableau 2015 Presentation: "https://tc15.tableau.com/schedule/tuesday/#session-1814/"
+    - Alteryx 2017 Session: "https://www.dropbox.com/s/qlhn7d2eao8cmpz/Alteryx%20Inspire%202017%20Presentation.pdf?dl=0"
+    - Tableau 2015 Presentation: "https://www.dropbox.com/s/gu0kt8gqd4iald2/151008_TableauSession1814.pdf?dl=0"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
