@@ -4,7 +4,7 @@ title: About me
 subtitle: So, what's my deal?
 ---
 
-![Andy Pick](/psuanm5030.github.io/img/profile-picture-768x1024.jpg){:float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;"} My name is Andy Miller.  
+![Andy Pick](/psuanm5030.github.io/img/profile-picture-768x1024.jpg){:float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;"} **My name is Andy Miller.**  
 
 I've been working for a Fortune 500 company leading their visualization and self-service analytics initiative.  My day-to-day consists of leading a “Center of Excellence,” engraining a culture of doing more with the data we have, utilizing our best resource – our people.  I also support executive dashboard projects.  I have a passion enabling visual analytics in a variety of ways.
 
@@ -20,3 +20,7 @@ Here are some key things to know about me:
 - I love being engaged in my work and crave projects that require thinking.
 
 **Check my** [LinkedIn](https://www.linkedin.com/in/andrewmiller09/)!!!
+
+## Freelance Work
+
+I

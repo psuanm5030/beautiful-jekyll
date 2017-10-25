@@ -27,6 +27,7 @@ navbar-links:
   Portfolio: "portfolio"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/andrewmiller09/"
+    - Upwork: "https://www.upwork.com/o/profiles/users/_~01309b702a65c82bfa/"
     - Alteryx 2017 Session: "https://www.dropbox.com/s/qlhn7d2eao8cmpz/Alteryx%20Inspire%202017%20Presentation.pdf?dl=0"
     - Tableau 2015 Presentation: "https://www.dropbox.com/s/gu0kt8gqd4iald2/151008_TableauSession1814.pdf?dl=0"
 
@@ -60,7 +61,7 @@ author:
   github: psuanm5030   
   twitter: hellosyd  
   linkedin: andrewmiller09       
-  stackoverflow: theStud54  
+  stackoverflow: 3802473  
 
 # Select which links to show in the footer
 footer-links-active:
@@ -97,7 +98,7 @@ url-pretty: "psuanm5030.github.io"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "Psuanm5030"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
