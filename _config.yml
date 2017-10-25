@@ -17,7 +17,7 @@ baseurl: ""
 title: Andy Miller
 
 # Short description of your site
-description: This is the description
+description: Hello there! I’m Andy, a creative, driven data science generalist.  It took me years to discover my passion for data and analytics, as I began my career as a CPA working for an accounting giant.  Over the course of a few years, I gradually shifted my career path.  I am happy to work full-time with data to produce analytics.
 
 # --- Navigation bar options --- #
 
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/apple-icon-precomposed.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
