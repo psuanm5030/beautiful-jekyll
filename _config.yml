@@ -175,6 +175,7 @@ prose:
     - /img
     - /js
     - /ignore
+    - /_posts/draft_posts
   metadata:
     _posts:
       - name: "layout"
