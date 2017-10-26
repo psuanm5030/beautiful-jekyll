@@ -4,9 +4,13 @@ title: Learning
 subtitle: My Continuous Learning Journey
 ---
 
-In 2014, after hearing from a colleague about a site called “Coursera”, I started to get interested in MOOCs (Massive Open Online Classes) and supplemental education in general.  At first, I never intended to learn to change my career, but it soon turned out that these classes lead me to another career – indirectly.  I believe that MOOCs / online education is a massive resource for those that believe in continuous education and learning (me).  The low cost, coupled with the outstanding professors and universities that have signed up makes this an incredible value.  
+In 2014, after hearing from a colleague about a site called “Coursera”, I started to get interested in MOOCs (Massive Open Online Classes) and online, supplemental education in general.  At first, I never intended to change my career, but rather just supplement skills, however I became addicted / passionate about the emerging area of data science.  
 
-Below is a summary of those courses I have taken, along with the associated projects!  
+I believe this type of learning is the future.  The low cost & barriers to entry (no acceptence, etc.), excellent platforms, and outstanding (some famous) professors makes this method ideal for learners like me.  
+
+Below I have listed most of the courses I have taken, with some summary detail and likes to the courses and my projects.  This is my record of learning!
+
+___
 
 ## [Programming for Everybody (Getting started with python)](https://www.coursera.org/learn/python)  
 
@@ -118,4 +122,20 @@ Final project revolved around understanding and designing an A/B test for a theo
 
 [Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/blob/master/B_Projects/P7_AB_Testing/P7%20-%20AB%20Testing%20-%20Udacity%20Free%20Trial%20Screener.pdf) (My Project Deliverable)  
 
-**I hope to add more courses in the future as I value the pursuit of continuous learning.  Let me know if you have any insight or feedback into these!  **  
+## [Advanced SQL for for Data Scientists](https://www.linkedin.com/learning/advanced-sql-for-data-scientists/tips-for-using-sql-for-data-science)   
+
+**LinkedIn Learning**   
+September 2017  
+
+I have spent years using SQL, however, mostly through other tools that wrap it in their GUI.  I wanted to finally spend some time learning the foundational elements.  This course was put together nicely and had very little unnecessary fluff.  
+
+## [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)   
+
+**Udacity**   
+October 2017  
+
+Lately (and really for the past 1-2 years) I have wanted to have a personal webpage to share my experiences.  I fooled around with wordpress and recently started pushing my website through [Jekyll](https://jekyllrb.com/).  During this, I was always trying to customize something and felt that I needed to get the fundamentals down!  This course was on point, in terms of "Intro."  I wish there was more to it, but it was a great start.   
+
+____  
+
+### I plan to add to this listing for the rest of my life!  Stay tuned.
