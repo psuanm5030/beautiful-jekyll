@@ -25,6 +25,8 @@ description: Andy's personal website, including a portfolio, blog and key links.
 navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
+    - Professional: "professional-portfolio"
+    - Personal: "personal-portfolio"
   Learning: "learning"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/andrewmiller09/"

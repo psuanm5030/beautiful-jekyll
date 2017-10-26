@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Professional Portfolio
+permalink: /professional-portfolio/
 ---
 
 Below is my listing of the various projects / analyses / processes I have helped enable, professionally and personally.
@@ -15,8 +15,6 @@ Below:
 * Legal Contracts Management
 * Operational Scorecard
 
-
-## Professional Projects 
 
 ### Audit Analytics Program  
 
@@ -147,12 +145,3 @@ In this session, you'll hear how Mylan's analytics team partnered with the compa
 **Links:** [Slides for 2017 Alteryx Conference](https://www.dropbox.com/s/qlhn7d2eao8cmpz/Alteryx%20Inspire%202017%20Presentation.pdf?dl=0)    
 
 **Note:** In this session, I covered the key points to successful partnerships amongst various business functions for self-service analytics.  
-
-
-## *Personal Projects*{: style="color: red"}
-
-
-* Fantasy Football - Yahoo API
-* RescueTime Analysis
-* Beers in Pittsburgh
-* Udacity
