@@ -100,7 +100,7 @@ Here are some of the projects / analyses / processes I have helped enable over t
 
 **Solution:** The 12 groups were vastly different functions, however they were all reporting on metrics on the same time frames (mostly monthly, some quarterly).  Therefore we organized the various Key Performance Indicators (KPI), along with their metadata, into a KPI database that set the foundation for stable, consistent reporting.  
 
-**Impact:** Time spent compiling the monthly reporting was reduced from approximately 100 hours to just 8 hours, across all 12 groups.  Besides the time saved, satisfaction is substantially improved with the metric consumers.  
+**Impact:** Time spent compiling the monthly reporting was reduced significantly due to the consolidation and singular methodology.  Besides the time saved, satisfaction is substantially improved with the metric consumers.  
 
 **Tools:** Sharepoint, Alteryx, Tableau  
 
