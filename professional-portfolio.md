@@ -2,34 +2,9 @@
 layout: page
 title: Professional Portfolio
 permalink: /professional-portfolio/
----
-
-Below is my listing of the various projects / analyses / processes I have helped enable, professionally and personally.
-
-Below: 
-* Audit Analytics Program
-* Travel & Entertainment Expense Fraud Review Process
-* Portfolio Opportunity Analysis
-* Pharmaceutical Market Exploration
-* Customer Call Analysis
-* Legal Contracts Management
-* Operational Scorecard
-
-
-### Audit Analytics Program  
-
-**Problem:** Our company and audit department were both growing significantly, however our processes were not becoming more efficient.  We were still testing small samples from huge populations and doing it by hand.  The limited analytics being done were outsourced, and in our case, expensive and low quality.  
-
-**Solution:**  With the support of leadership, I suggested the insourcing and augmentation of our analytical efforts, through the creation of an analytics sub-function.  I developed a methodology to incoporate analytics into the legacy audit processes, as well as independent analytics engagements.  Further, I stood up the technology and processes to support this methodology, educating our audit professionals on the value of analytics along the way.  
-
-**Impact:**  Nearly all audits experienced valuable gains in efficiency and effectivness, while the traditional audit process was transformed to emphasize the analytics component.  Some of my analytic deliverables were shared with the highest levels of company leadership, including the CFO, CEO and board of directors.  Within 2 years, two positions were created to support anlytics exclusively in Internal Audit.  
-   
-**Tools:**  ACL, ACL Server, Python, R  
-
-![Audit Manual](/psuanm5030.github.io/img/Internal Audit Manual - Contents.png){:height="50%" width="50%" style="
-    display: block;
-    margin: 0 auto;
-"}
+---   
+	
+Below is my listing of the various projects / analyses / processes I have helped enable.  Please note that I have had to leave certain details out and blur screenshots to respect employer privacy.  
 
 ### Travel & Entertainment Expense Fraud Review Process
 
@@ -81,9 +56,9 @@ Below:
 
 ### Customer Call Analysis
 
-**Problem:** The need to understand sentiment from our customers and predict future issues was of high priority.  Calls from customers were being logged but several attempts to extract insights from this data were unsuccessful, mostly due to the low volume of calls (outside of one product).  Current analysis was a weekly email to leaders showing calls per call type and product (no actual insight).  
+**Problem:** The need to understand sentiment from our customers and predict future issues was of high priority.  Calls from customers were being logged but several attempts to extract insights from this data were unsuccessful, mostly due to the low volume of calls.  Current intelligence consisted of a weekly email to leaders showing calls per call type and product.   There wasn't anything that actually communicated a trend or alerted stakeholders when a product or area was out of bounds.  Further, this dashboard needed to be consumed by an audience of both analysts and executives.  
 
-**Solution:** We needed to capture and communicate the trend, dependent on the dimensional interest (i.e., call type, product type).  Therefore, a single, simple dashboard, focused on comparing the near-term to long-term averages, was built.  This not only surfaced the needed insights (while avoiding the low volume issue) but was also valuable to the various audiences (from customer support rep to executive).  Additionally we built a pipeline that automated the extraction, transformation and storage of the data, such that the data could be viewed hourly (as opposed to the weekly standard).
+**Solution:** As the data was limited in detail and low volume, we determined that a focused dashboard, comparing the near-term to long-term averages, was ideal.  This not only surfaced the needed insights (while avoiding the low volume issue) but was also valuable to the various audiences (from customer support rep to executive).  Additionally we built a pipeline that automated the extraction, transformation and storage of the data, such that the data could be viewed hourly (as opposed to the weekly standard).
 
 **Impact:** This dashboard was praised for the simplicity and insights generation - for multiple stakeholders.  It was also determined that this new process saved over 12 hours per month and exposed the data for further usages.
  
@@ -92,7 +67,22 @@ Below:
 ![Customer Call Analysis](/psuanm5030.github.io/img/Customer Calls.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
-"}
+"}  
+
+### Audit Analytics Program  
+
+**Problem:** Our company and audit department were both growing significantly, however our audit process was still very "old school" in a number of ways.  One key area of limitation was our lack of integrated audit analytics, which were being outsourced in a limited fashion.  The outsourced analytics were expensive, low quality and only applied where absolutely required.  
+
+**Solution:**  With the support of audit leadership, I was able to insource our analytical efforts and develop our audit analtyics methodology.  We documented our processes and made key technology decisions to effectively and efficiently support our methodology and the audit process.  We also placed heavy emphasis on educating our audit professionals on the value of analytics in their audit process.   
+
+**Impact:**  Nearly all audits experienced valuable gains in efficiency and effectivness, while the traditional audit process was transformed to emphasize the analytics component.  Some of my analytic deliverables were shared with the highest levels of company leadership, including the CFO, CEO and board of directors.  Within 2 years, two positions were created to support anlytics exclusively in Internal Audit.  
+   
+**Tools:**  ACL, ACL Server, Python, R  
+
+![Audit Manual](/psuanm5030.github.io/img/Internal Audit Manual - Contents.png){:height="50%" width="50%" style="
+    display: block;
+    margin: 0 auto;
+"}  
 
 ### Legal Contracts Management
 
@@ -103,7 +93,6 @@ Below:
 **Impact:** Initial hypothesis validation turned into an analytical toolset used by more than 35 people in over 12 countries.    
 
 **Tools:** Alteryx (automated pipeline), Tableau (analyses and dashboards)  
-
 
 ### Operational Scorecard
 
@@ -118,30 +107,4 @@ Below:
 ![Operational Scorecards](/psuanm5030.github.io/img/Operational Scorecard.png){:height="80%" width="80%" style="
     display: block;
     margin: 0 auto;
-"}
-
-## Speaking Engagements
-
-### Tableau Conference 2015
-
-**Session Title:** Mylan's Risk-Aware, Fact-Based Decision-Making With the Internal Audit Function  
-
-**Brief:** Mylan’s Internal Audit department is positioned to lead change throughout the organization. The team can easily move across departmental silos, has access to information, and is well connected to upper levels of management. Mylan is doing more with less, upending the traditional audit approach with risk-based sampling, using analytics to expand coverage and enable efficient and prioritized sampling.  
-
-Learn how EY advises their clients to take this approach one step further — using Tableau to create head office and local in-country management dashboards to socialize the risk-based approach, and monitor for global bribery and corruption risk. 
-
-**Links:** [Presentation for 2015 Tableau Conference](https://www.dropbox.com/s/gu0kt8gqd4iald2/151008_TableauSession1814.pdf?dl=0)    
-
-**Note:** This session discussed, in part, is based upon the Travel & Entertainment Fraud Review Program discussed above.  
-
-### Alteryx Inspire 2017
-
-**Session Title:** A Prescription for HR and M&A Analytics Success
-
-**Brief:** One of the world's leading generics and specialty pharmaceutical companies, Mylan markets its products in approximately 165 countries and territories with a workforce of 35,000+ employees. Having experienced significant growth over the last 10 years—primarily through acquisitions—the company recognized that analytics played a key role in its successful onboarding of new employees.  
-
-In this session, you'll hear how Mylan's analytics team partnered with the company's HR department to find previously elusive answers to several critical questions. You'll also find out how HR led an effort to adopt a self-service analytics toolset, consisting of Alteryx and Tableau, to collaborate more efficiently and reduce its reliance on IT resources. And you'll get a deep-dive into two Alteryx-enabled projects that helped HR better understand the value of an analytics mindset.  
-
-**Links:** [Slides for 2017 Alteryx Conference](https://www.dropbox.com/s/qlhn7d2eao8cmpz/Alteryx%20Inspire%202017%20Presentation.pdf?dl=0)    
-
-**Note:** In this session, I covered the key points to successful partnerships amongst various business functions for self-service analytics.  
+"}   
