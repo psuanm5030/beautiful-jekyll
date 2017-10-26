@@ -160,6 +160,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - /_posts/draft_posts
 
 # prose.io config
 prose:
