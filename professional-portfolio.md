@@ -4,7 +4,7 @@ title: Professional Portfolio
 permalink: /professional-portfolio/
 ---   
 	
-Below is my listing of the various projects / analyses / processes I have helped enable.  Please note that I have had to leave certain details out and blur screenshots to respect employer privacy.  
+Here are some of the projects / analyses / processes I have helped enable over the years.  Please note that I have had to leave certain details out and blur screenshots to respect employer privacy.  
 
 ### Travel & Entertainment Expense Fraud Review Process
 
