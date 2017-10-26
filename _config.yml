@@ -27,6 +27,7 @@ navbar-links:
   Portfolio:
     - Professional: "professional-portfolio"
     - Personal: "personal-portfolio"
+    - Speaking: "speaking"
   Learning: "learning"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/andrewmiller09/"
