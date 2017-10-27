@@ -4,9 +4,9 @@ title: Learning
 subtitle: My Continuous Learning Journey
 ---
 
-In 2014, after hearing from a colleague about a site called “Coursera”, I started to get interested in MOOCs (Massive Open Online Classes) and online, supplemental education in general.  At first, I never intended to change my career, but rather just supplement skills, however I became addicted / passionate about the emerging area of data science.  
+In 2014, after hearing from a colleague about a site called “Coursera," I started to get interested in MOOCs (Massive Open Online Classes) and online, supplemental education in general.  At first, I never intended to change my career, but rather just supplement skills, however I became addicted / passionate about the emerging area of data science.  
 
-I believe this type of learning is the future.  The low cost & barriers to entry (no acceptence, etc.), excellent platforms, and outstanding (some famous) professors makes this method ideal for learners like me.  
+I believe this type of learning is the future.  The low cost & barriers to entry (no acceptance, etc.), excellent platforms, and outstanding (some famous) professors makes this method ideal for learners like me.  
 
 Below I have listed most of the courses I have taken, with some summary detail and likes to the courses and my projects.  This is my record of learning!
 
@@ -31,14 +31,14 @@ After getting my feet wet with Python, I was looking for a class that would enha
 **MIT** 
 April 2015 - June 2015  
 
-Taking this class changed everything for me.  This was course that did the opposite of what I previously had, which was foundationally learning a programming language.  This course taught me a new language, R ([wikipedia link](https://en.wikipedia.org/wiki/R_(programming_language))), using REAL-world examples.  I learned from cases such as Moneyball and the Framington Heart Study ([wikipedia link](https://en.wikipedia.org/wiki/Framingham_Heart_Study)), and so many more.  I was surprised how I could learn a language this way!  Two things contributed to this: 1) R is an easier, less-intimidating language to learn, and 2) I supplemented my learning with lots of google – which I think is a very efficient way of learning.  However, the greatest contributor to learning R was engaging examples (so thank you to the creators).  **If I were to recommend any class, it would be this one.**  
+Taking this class changed everything for me.  This was course that did the opposite of what I previously had, which was foundationally learning a programming language.  This course taught me a new language, R ([wikipedia link](https://en.wikipedia.org/wiki/R_(programming_language))), using REAL-world examples.  I learned from cases such as Moneyball and the Framington Heart Study ([wikipedia link](https://en.wikipedia.org/wiki/Framingham_Heart_Study)), and so many more.  I was surprised how I could learn a language this way!  Two things contributed to this: 1) R is an easier, less-intimidating language to learn, and 2) I supplemented my learning with lots of google — which I think is a very efficient way of learning.  However, the greatest contributor to learning R was engaging examples (so thank you to the creators).  **If I were to recommend any class, it would be this one.**  
 
 ## [Statistics for Business – I](https://www.edx.org/course/statistics-business-i-iimbx-qm101-1x-0)
 
 **IIMBx**
 June 2015 - July 2015  
 
-This was somewhat of a filler course for me post my experience with “The Analytic’s Edge” (which was incredible – see above), as I felt I needed a primer on statistics, as I was deciding my future class / degree (explained below).  Overall, this was heavy on basic excel functions, and while it did teach me a few things, it was not the statistics primer I was looking for – should have realized that the word “Business” often is a way to say that it is both: 1) incorporating real-life examples, and 2) meant for everybody – i.e., diluted.
+This was somewhat of a filler course for me post my experience with “The Analytic’s Edge” (which was incredible — see above), as I felt I needed a primer on statistics, as I was deciding my future class / degree (explained below).  Overall, this was heavy on basic excel functions, and while it did teach me a few things, it was not the statistics primer I was looking for — should have realized that the word “Business” often is a way to say that it is both: 1) incorporating real-life examples, and 2) meant for everybody — i.e. diluted.
 
 ## [Udacity – Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4) 
 *7 classes over the course of 12 months*  
@@ -78,7 +78,7 @@ During this course I was exposed to a new technology, MongoDB, a document-based 
 
 **PROJECT: WRANGLE OPENSTREETMAP DATA**  
 
-For this project, I used MongoDB and my learned data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data ([https://www.openstreetmap.org](https://www.openstreetmap.org)) for a part of the world that you care about – which is Pittsburgh, PA!  
+For this project, I used MongoDB and my learned data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data ([https://www.openstreetmap.org](https://www.openstreetmap.org)) for a part of the world that you care about — which is Pittsburgh, PA!  
 
 [Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/blob/master/B_Projects/P3_Data_Wrangling_OpenStreetMap/P3%20-%20Open%20StreetMap%20Project.md) (My Project Deliverable)  
 
@@ -122,7 +122,7 @@ Final project revolved around understanding and designing an A/B test for a theo
 
 [Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/blob/master/B_Projects/P7_AB_Testing/P7%20-%20AB%20Testing%20-%20Udacity%20Free%20Trial%20Screener.pdf) (My Project Deliverable)  
 
-## [Advanced SQL for for Data Scientists](https://www.linkedin.com/learning/advanced-sql-for-data-scientists/tips-for-using-sql-for-data-science)   
+## [Advanced SQL for Data Scientists](https://www.linkedin.com/learning/advanced-sql-for-data-scientists/tips-for-using-sql-for-data-science)   
 
 **LinkedIn Learning**   
 September 2017  
@@ -134,7 +134,7 @@ I have spent years using SQL, however, mostly through other tools that wrap it i
 **Udacity**   
 October 2017  
 
-Lately (and really for the past 1-2 years) I have wanted to have a personal webpage to share my experiences.  I fooled around with wordpress and recently started pushing my website through [Jekyll](https://jekyllrb.com/).  During this, I was always trying to customize something and felt that I needed to get the fundamentals down!  This course was on point, in terms of "Intro."  I wish there was more to it, but it was a great start.   
+Lately (and really for the past 1-2 years) I have wanted to have a personal webpage to share my experiences.  I fooled around with Wordpress and recently started pushing my website through [Jekyll](https://jekyllrb.com/).  During this, I was always trying to customize something and felt that I needed to get the fundamentals down!  This course was on point, in terms of "Intro."  I wish there was more to it, but it was a great start.   
 
 ____  
 
