@@ -10,35 +10,28 @@ I believe this type of learning is the future.  The low cost & barriers to entry
 
 Below I have listed most of the courses I have taken, with some summary detail and likes to the courses and my projects.  This is my record of learning!
 
-___
+# Currently Taking
 
-## [Programming for Everybody (Getting started with python)](https://www.coursera.org/learn/python)  
+## [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
-**Michigan University**  
-November 2014 - January 2015  
+**University of Pennsylvania**  
 
-My first foray and a great start for somebody that had a hidden passion for working with technology, but zero coding experience!  Once I took this course, I was hooked.  
+# Completed
+**Most Recent to Oldest**
 
-## [6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)  
+## [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)   
 
-**MIT**  
-February 2015 - April 2015  
+**Udacity**   
+October 2017  
 
-After getting my feet wet with Python, I was looking for a class that would enhance my coding skills.  This course was everything I was looking for and more.  Not 0nly did it enhance my foundational knowledge of the language, but it provided several thought-provoking exercises and examples.  I learned about functions, classes and other techniques such as recursion.  It was a tough course but it stretched me in the right ways, keeping me fully interested.  
+Lately (and really for the past 1-2 years) I have wanted to have a personal webpage to share my experiences.  I fooled around with Wordpress and recently started pushing my website through [Jekyll](https://jekyllrb.com/).  During this, I was always trying to customize something and felt that I needed to get the fundamentals down!  This course was on point, in terms of "Intro."  I wish there was more to it, but it was a great start.   
 
-## [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)  
+## [Advanced SQL for Data Scientists](https://www.linkedin.com/learning/advanced-sql-for-data-scientists/tips-for-using-sql-for-data-science)   
 
-**MIT** 
-April 2015 - June 2015  
+**LinkedIn Learning**   
+September 2017  
 
-Taking this class changed everything for me.  This was course that did the opposite of what I previously had, which was foundationally learning a programming language.  This course taught me a new language, R ([wikipedia link](https://en.wikipedia.org/wiki/R_(programming_language))), using REAL-world examples.  I learned from cases such as Moneyball and the Framington Heart Study ([wikipedia link](https://en.wikipedia.org/wiki/Framingham_Heart_Study)), and so many more.  I was surprised how I could learn a language this way!  Two things contributed to this: 1) R is an easier, less-intimidating language to learn, and 2) I supplemented my learning with lots of google — which I think is a very efficient way of learning.  However, the greatest contributor to learning R was engaging examples (so thank you to the creators).  **If I were to recommend any class, it would be this one.**  
-
-## [Statistics for Business – I](https://www.edx.org/course/statistics-business-i-iimbx-qm101-1x-0)
-
-**IIMBx**
-June 2015 - July 2015  
-
-This was somewhat of a filler course for me post my experience with “The Analytic’s Edge” (which was incredible — see above), as I felt I needed a primer on statistics, as I was deciding my future class / degree (explained below).  Overall, this was heavy on basic excel functions, and while it did teach me a few things, it was not the statistics primer I was looking for — should have realized that the word “Business” often is a way to say that it is both: 1) incorporating real-life examples, and 2) meant for everybody — i.e. diluted.
+I have spent years using SQL, however, mostly through other tools that wrap it in their GUI.  I wanted to finally spend some time learning the foundational elements.  This course was put together nicely and had very little unnecessary fluff.  
 
 ## [Udacity – Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4) 
 *7 classes over the course of 12 months*  
@@ -122,20 +115,33 @@ Final project revolved around understanding and designing an A/B test for a theo
 
 [Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/blob/master/B_Projects/P7_AB_Testing/P7%20-%20AB%20Testing%20-%20Udacity%20Free%20Trial%20Screener.pdf) (My Project Deliverable)  
 
-## [Advanced SQL for Data Scientists](https://www.linkedin.com/learning/advanced-sql-for-data-scientists/tips-for-using-sql-for-data-science)   
+## [Statistics for Business – I](https://www.edx.org/course/statistics-business-i-iimbx-qm101-1x-0)
 
-**LinkedIn Learning**   
-September 2017  
+**IIMBx**
+June 2015 - July 2015  
 
-I have spent years using SQL, however, mostly through other tools that wrap it in their GUI.  I wanted to finally spend some time learning the foundational elements.  This course was put together nicely and had very little unnecessary fluff.  
+This was somewhat of a filler course for me post my experience with “The Analytic’s Edge” (which was incredible — see above), as I felt I needed a primer on statistics, as I was deciding my future class / degree (explained below).  Overall, this was heavy on basic excel functions, and while it did teach me a few things, it was not the statistics primer I was looking for — should have realized that the word “Business” often is a way to say that it is both: 1) incorporating real-life examples, and 2) meant for everybody — i.e. diluted.  
 
-## [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)   
+## [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)  
 
-**Udacity**   
-October 2017  
+**MIT** 
+April 2015 - June 2015  
 
-Lately (and really for the past 1-2 years) I have wanted to have a personal webpage to share my experiences.  I fooled around with Wordpress and recently started pushing my website through [Jekyll](https://jekyllrb.com/).  During this, I was always trying to customize something and felt that I needed to get the fundamentals down!  This course was on point, in terms of "Intro."  I wish there was more to it, but it was a great start.   
+Taking this class changed everything for me.  This was course that did the opposite of what I previously had, which was foundationally learning a programming language.  This course taught me a new language, R ([wikipedia link](https://en.wikipedia.org/wiki/R_(programming_language))), using REAL-world examples.  I learned from cases such as Moneyball and the Framington Heart Study ([wikipedia link](https://en.wikipedia.org/wiki/Framingham_Heart_Study)), and so many more.  I was surprised how I could learn a language this way!  Two things contributed to this: 1) R is an easier, less-intimidating language to learn, and 2) I supplemented my learning with lots of google — which I think is a very efficient way of learning.  However, the greatest contributor to learning R was engaging examples (so thank you to the creators).  **If I were to recommend any class, it would be this one.**  
+
+## [6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)  
+
+**MIT**  
+February 2015 - April 2015  
+
+After getting my feet wet with Python, I was looking for a class that would enhance my coding skills.  This course was everything I was looking for and more.  Not 0nly did it enhance my foundational knowledge of the language, but it provided several thought-provoking exercises and examples.  I learned about functions, classes and other techniques such as recursion.  It was a tough course but it stretched me in the right ways, keeping me fully interested.  
+
+## [Programming for Everybody (Getting started with python)](https://www.coursera.org/learn/python)  
+
+**Michigan University**  
+November 2014 - January 2015  
+
+My first foray and a great start for somebody that had a hidden passion for working with technology, but zero coding experience!  Once I took this course, I was hooked.  
 
 ____  
 
-### I plan to add to this listing for the rest of my life!  Stay tuned.
