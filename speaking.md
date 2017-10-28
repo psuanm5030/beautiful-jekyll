@@ -9,13 +9,13 @@ permalink: /speaking/
 
 **Session Title:** Mylan's Risk-Aware, Fact-Based Decision-Making With the Internal Audit Function  
 
-**Brief:** Mylan’s Internal Audit department is positioned to lead change throughout the organization. The team can easily move across departmental silos, has access to information, and is well connected to upper levels of management. Mylan is doing more with less, upending the traditional audit approach with risk-based sampling, using analytics to expand coverage and enable efficient and prioritized sampling.  
+**Brief:** Mylan’s Internal Audit department is positioned to lead change throughout the organization. The team can easily move across departmental silos, has access to information, and is well connected to upper levels of management. Mylan is doing more with less, up-ending the traditional audit approach with risk-based sampling, using analytics to expand coverage and enable efficient and prioritized sampling.  
 
-Learn how EY advises their clients to take this approach one step further — using Tableau to create head office and local in-country management dashboards to socialize the risk-based approach, and monitor for global bribery and corruption risk. 
+Learn how Ernst & Young advises their clients to take this approach one step further — using Tableau to create head office and local in-country management dashboards to socialize the risk-based approach, and monitor for global bribery and corruption risk. 
 
 **Links:** [Presentation for 2015 Tableau Conference](https://www.dropbox.com/s/gu0kt8gqd4iald2/151008_TableauSession1814.pdf?dl=0)    
 
-**Note:** This session discussed, in part, is based upon the Travel & Entertainment Fraud Review Program discussed above.  
+**Note:** This session discussed, in part, is based upon the Travel & Entertainment Fraud Review Program discussed in my [professional portfolio](https://psuanm5030.github.io/professional-portfolio/).  
 
 ### Alteryx Inspire 2017
 
@@ -35,6 +35,6 @@ In this session, you'll hear how Mylan's analytics team partnered with the compa
 
 **Brief:** I have been a committee member for the University of Pittsburgh Industry Analytics Council, providing guidance regarding their relatively new analytics certificate program.  
 
-In September, I was invited to speak to roughly 60 students regarding data visualization and the tool Tableau.  These sessions are rewarding because many of these students have never seen how easy and valuable it can be to use a tool like Tableau.  This particular presentation had a meme spin to it!    
+In September, I was invited to speak to roughly 60 students regarding data visualization and the tool Tableau.  These sessions are rewarding because many of these students have never seen how easy and valuable it can be to use a tool like Tableau.  This presentation was fun as I was able to exercise more creative freedom than normal!   
 
 **Links:** [PDF Slides](https://www.dropbox.com/s/9mowobxgjg3xqog/170929_PITT%20Presentation%20FINAL.pdf?dl=0)    
