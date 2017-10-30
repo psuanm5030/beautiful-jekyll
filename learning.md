@@ -6,7 +6,7 @@ subtitle: My Continuous Learning Journey
 
 In 2014, after hearing from a colleague about a site called “Coursera," I started to get interested in MOOCs (Massive Open Online Classes) and online, supplemental education in general.  At first, I never intended to change my career, but rather just supplement skills, however I became addicted / passionate about the emerging area of data science.  
 
-I believe this type of learning is the future.  The low cost & barriers to entry (no acceptance, etc.), excellent platforms, and outstanding (some famous) professors makes this method ideal for learners like me.  
+I believe this type of learning is the future.  The low cost & barriers to entry (no acceptance, etc.), excellent platforms, and outstanding professors makes this method ideal for learners like me.  
 
 Below I have listed most of the courses I have taken, with some summary detail and likes to the courses and my projects.  This is my record of learning!
 
@@ -37,9 +37,9 @@ I have spent years using SQL, however, mostly through other tools that wrap it i
 *7 classes over the course of 12 months*  
 August 2015 - June 2016  
 
-In July 2015, I decided to participate and dedicate myself to completing Udacity’s Data Analyst Nanodegree program.  The program was estimated to take ~18 months, so my decision was well thought through.  I wanted something that was going to be challenging, but also I wanted some sort of credential.  And I wanted something that was more robust than a single class or a single discipline.  I also considered a Master’s degree, but to be honest, a Master’s was infinitely more expensive and it didn’t fit my need for the course to conform to my life.  I also believe that formal degrees can be overrated, particularly around a topic like data science, where I believe that most of the learning is done proactively by the learner, outside of a classroom.  
+In July 2015, I decided to participate and dedicate myself to completing Udacity’s Data Analyst Nanodegree program.  The program was estimated to take ~18 months, so my decision was well thought through.  I wanted something that was going to be challenging, but also I wanted some sort of credential.  I wanted something that was more robust than a single class or a single discipline.  I also considered a Master’s degree, but to be honest, a Master’s was infinitely more expensive and it didn’t fit my need for the course to conform to my life.  I also believe that formal degrees can be overrated, particularly around a topic like data science, where I believe that most of the learning is done proactively by the learner, outside of a classroom.  
 
-I completed the degree program, and its 7 classes, roughly 10 months later.  In retrospect, it was tough.  Not only did you complete lectures, quizzes and exercises, but there was a project for each course.  All of this took time, and I sacrificed a lot of weekends and early mornings to get this done timely.  In the end it was worth every penny and hour.  I learned things that I could apply to my own little pet projects, as well as, my everyday work.  
+I completed the degree program, and its 7 classes, roughly 10 months later.  In retrospect, it was tough.  Not only did I complete lectures, quizzes and exercises, but there was a project for each course.  All of this took time, and I sacrificed a lot of weekends and early mornings to get this done timely.  In the end it was worth every penny and hour.  I learned things that I could apply to my own pet projects, as well as, my everyday work.  
 
 **Checkout a light dashboard on my journey [here](https://public.tableau.com/views/MyUdacityJourney/Journey?:embed=y&:display_count=yes&:showVizHome=no)!  
 
@@ -61,17 +61,17 @@ This course took my background of Python (through previous courses above) and tu
 
 **PROJECT: INVESTIGATE A DATASET**  
 
-This particular project involved a large dataset consisting of turnstile data from New York subways, along with weather information.  Using NumPy and Pandas, I munged and analyzed the dataset in an effort to answer this question: “Do more people ride the NYC subway when it is raining or when it is not raining?”.  Check the link below to see the my conclusion!  
+This particular project involved a large dataset consisting of turnstile data from New York subways, along with weather information.  Using NumPy and Pandas, I munged and analyzed the dataset in an effort to answer this question: “Do more people ride the NYC subway when it is raining or when it is not raining?”.  Check the link below to see my conclusion!  
 
 [Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/blob/master/B_Projects/P2_Analyzing_Subway_Data/P2_Analyzing_Subway_Data.md) (My Project Deliverable)  
 
 ### Data Extraction and Wrangling  
 
-During this course I was exposed to a new technology, MongoDB, a document-based database.  I learned how to create a functional database by wrangling and cleansing data, then graduating to creating pipelines to functionally query these databases.  
+During this course I was exposed to a new technology, MongoDB, a document-based database.  I learned how to create a functional database by wrangling and cleansing data, then graduate to creating pipelines to functionally query these databases.  
 
 **PROJECT: WRANGLE OPENSTREETMAP DATA**  
 
-For this project, I used MongoDB and my learned data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data ([https://www.openstreetmap.org](https://www.openstreetmap.org)) for a part of the world that you care about — which is Pittsburgh, PA!  
+For this project, I used MongoDB to assess the quality of the data for validity, accuracy, completeness, and consistency and uniformity, for OpenStreetMap data ([https://www.openstreetmap.org](https://www.openstreetmap.org)) in Pittsburgh, PA (my hometown)!  
 
 [Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/blob/master/B_Projects/P3_Data_Wrangling_OpenStreetMap/P3%20-%20Open%20StreetMap%20Project.md) (My Project Deliverable)  
 
@@ -93,7 +93,7 @@ Finally, into the meaty stuff!  This machine learning course really put my pytho
 
 This project was especially interesting for two reasons: 1) I was intensely curious about machine learning, and 2) Enron was something taught in all my accounting classes at college.   The class that proceeded this project was really in-depth regarding ML algorithms and this project forced me to test them all, eventually settling on a combination (ensemble) of algorithms to try and detect “persons of interest” from a HUGE email dataset.  
 
-[Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/tree/master/B_Projects/P5_IdentifyFraudFromEnronEmail) (My Project Deliverable) – Make take a minute to load…  
+[Link to GitHub File](https://github.com/psuanm5030/DA_NanoDegree/tree/master/B_Projects/P5_IdentifyFraudFromEnronEmail) (My Project Deliverable) – Might a minute to load.   
 
 ### Data Visualization  
 
@@ -107,7 +107,7 @@ This turned out to be one of the hardest projects, however one of the most rewar
 
 ### A/B Testing  
 
-Finally was A/B testing, which was much more intense than expected.  The course was enlightening as it was taught by some experts from google, who were pioneers with evaluating web design and functionality.  
+The last class was on A/B testing, which was much more intense than expected.  The course was enlightening as it was taught by some experts from Google, who were pioneers with evaluating web design and functionality.  
 
 **PROJECT: DESIGN AN A/B TEST**  
 
@@ -127,21 +127,21 @@ This was somewhat of a filler course for me post my experience with “The Analy
 **MIT** 
 April 2015 - June 2015  
 
-Taking this class changed everything for me.  This was course that did the opposite of what I previously had, which was foundationally learning a programming language.  This course taught me a new language, R ([wikipedia link](https://en.wikipedia.org/wiki/R_(programming_language))), using REAL-world examples.  I learned from cases such as Moneyball and the Framington Heart Study ([wikipedia link](https://en.wikipedia.org/wiki/Framingham_Heart_Study)), and so many more.  I was surprised how I could learn a language this way!  Two things contributed to this: 1) R is an easier, less-intimidating language to learn, and 2) I supplemented my learning with lots of google — which I think is a very efficient way of learning.  However, the greatest contributor to learning R was engaging examples (so thank you to the creators).  **If I were to recommend any class, it would be this one.**  
+Taking this class changed everything for me.  This was a course that did the opposite of what I previously had, which was foundationally learning a programming language.  This course taught me a new language, R ([wikipedia link](https://en.wikipedia.org/wiki/R_(programming_language))), using REAL-world examples.  I learned from cases such as Moneyball and the Framington Heart Study ([wikipedia link](https://en.wikipedia.org/wiki/Framingham_Heart_Study)), and so many more.  I was surprised how I could learn a language this way!  Two things contributed to this: 1) R is an easier, less-intimidating language to learn, and 2) I supplemented my learning with lots of google — which I think is a very efficient way of learning.  However, the greatest contributor to learning R was engaging examples (so thank you to the creators).  **If I were to recommend any class, it would be this one.**  
 
 ## [6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)  
 
 **MIT**  
 February 2015 - April 2015  
 
-After getting my feet wet with Python, I was looking for a class that would enhance my coding skills.  This course was everything I was looking for and more.  Not 0nly did it enhance my foundational knowledge of the language, but it provided several thought-provoking exercises and examples.  I learned about functions, classes and other techniques such as recursion.  It was a tough course but it stretched me in the right ways, keeping me fully interested.  
+After getting my feet wet with Python, I was looking for a class that would enhance my coding skills.  This course was everything I was looking for and more.  Not only did it enhance my foundational knowledge of the language, but it provided several thought-provoking exercises and examples.  I learned about functions, classes and other techniques such as recursion.  It was a tough course but it stretched me in the right ways, keeping me fully interested.  
 
 ## [Programming for Everybody (Getting started with python)](https://www.coursera.org/learn/python)  
 
 **Michigan University**  
 November 2014 - January 2015  
 
-My first foray and a great start for somebody that had a hidden passion for working with technology, but zero coding experience!  Once I took this course, I was hooked.  
+My first foray and a great start for somebody that has a hidden passion for working with technology, but zero coding experience!  Once I took this course, I was hooked.  
 
 ____  
 

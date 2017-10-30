@@ -4,13 +4,13 @@ title: Professional Portfolio
 permalink: /professional-portfolio/
 ---   
 	
-Here are some of the projects / analyses / processes I have helped enable over the years.   One thing you may notice is a lot of data visualization.  This is a core focus for me and the form that many of my deliverables take, however, please realize there is a lot of work behind the scenes to source, prepare and automate data to enable visualization.  I am involved in all aspects of that process, though I haven't presented due to its inherent difficulty to put on display.  
+Here are some of the projects / analyses / processes I have helped enable over the years.   One thing you may notice is a lot of data visualization.  This is a core focus for me, however, I spend most of my time preparing the data and developing automation, to ultimately enable visualization.  Much of this isn't presented below, due to its inherent difficulty to display.  
 
 **Please note that I have had to leave certain details out and blur screenshots to respect employer privacy.**
 
 ### Travel & Entertainment Expense Fraud Review Process
 
-**Problem:** Travel & entertainment (T&E) expenses were growing and particularly risky for multinational pharma companies.  We wanted to monitor, however knew that sampling would be too limited and time-consuming.  Further, I believed that the suggested approach of analyzing the population (e.g., top-10 spenders, largest cash expenses, etc.) would not be effective.  
+**Problem:** Travel & entertainment (T&E) expenses were growing and particularly risky for multi-national pharma companies.  We wanted to monitor, however knew that sampling would be too limited and time-consuming.  Further, I believed that the suggested approach of analyzing the population (e.g., top-10 spenders, largest cash expenses, etc.) would not be effective.  
 
 **Solution:** I developed an end-to-end program to consume, transform, score & rank, and visualize the T&E data.  My approach employed 19 different analytical tests that were methodically scored and analyzed collectively from an individual employee perspective.  
 
@@ -29,7 +29,7 @@ Here are some of the projects / analyses / processes I have helped enable over t
 
 **Solution:** I was engaged to analyze the data to uncover trends and gaps, as well as, make this visually consumable by a wide variety of audiences, including analysts and leaders.  
 
-**Impact:** Shared with the top-50 operational leaders via live, in-person demo (as well as through 55" touch screen).  Later demoed in-person to the CEO, then presented to the board of directors interactively by the company president.  Originally intended to be an ad-hoc review has been sponsored and is being "operationalized" by a team of two individuals.  
+**Impact:** Shared with the top-50 operational leaders via live, in-person demo (as well as through a large touch screen).  Later demoed in-person to the CEO, then presented to the board of directors interactively by the company president.  Originally intended to be an ad-hoc review, this work has now been sponsored and is being "operationalized" by a team of two individuals.  
  
 **Tools:** Tableau, Alteryx  
 
@@ -45,7 +45,7 @@ Here are some of the projects / analyses / processes I have helped enable over t
 **Solution:** We tackled the pipeline first, up-skilling the IMS team with the ETL workflow tool, Alteryx.  Second, we built a number of dashboards that made insight generation easier for the user.  Finally, we shared the wealth, training scores of people across the enterprise to use the dashboards. 
 
 **Impact:**    
-* Data pipeline that takes under 4 hours to complete quarterly, which features various improvements to the underlying data (e.g., additional / more efficient features, validation, centralization and redundancy).  This saved them nearly 160+ hours per quarter.  
+* Data pipeline that takes under 4 hours to complete quarterly, which features various improvements to the underlying data (e.g., additional / more efficient features, validation, centralization, and redundancy).  This saved them nearly 160+ hours per quarter.  
 * Nearly 20+ dashboards deployed to 200 users worldwide, from many different functions — most with unique reasons for consuming the data.  
 * Enabled company to look at data against custom dimensions, never before analyzed.
 
@@ -58,9 +58,9 @@ Here are some of the projects / analyses / processes I have helped enable over t
 
 ### Customer Call Analysis
 
-**Problem:** The need to understand sentiment from our customers and predict future issues was of high priority.  Calls from customers were being logged but several attempts to extract insights from this data were unsuccessful, mostly due to the low volume of calls.  Current intelligence consisted of a weekly email to leaders showing calls per call type and product.   There wasn't anything that actually communicated a trend or alerted stakeholders when a product or area was out of bounds.  Further, this dashboard needed to be consumed by an audience of both analysts and executives.  
+**Problem:** The need to understand sentiment from our customers and predict future issues was of high priority.  Calls from customers were being logged but several attempts to extract insights from this data were unsuccessful (mostly due to the low volume of calls).  Current intelligence consisted of a weekly email to leaders showing calls per call type and product.   There wasn't anything that actually communicated a trend or alerted stakeholders when a product or area was out of bounds.  Further, this dashboard needed to be consumed by an audience of both analysts and executives.  
 
-**Solution:** As the data was limited in detail and low volume, we determined that a focused dashboard, comparing the near-term to long-term averages, was ideal.  This not only surfaced the needed insights (while avoiding the low volume issue) but was also valuable to the various audiences (from customer support rep to executive).  Additionally we built a pipeline that automated the extraction, transformation and storage of the data, such that the data could be viewed hourly (as opposed to the weekly standard).
+**Solution:** As the data was limited in detail and low volume, we determined that a focused dashboard, comparing the near-term to long-term averages, was ideal.  This not only surfaced the needed insights (while avoiding the low volume issue), but was also valuable to the various audiences (from customer support rep to executive).  Additionally we built a pipeline that automated the extraction, transformation, and storage of the data, such that the data could be viewed hourly (as opposed to the weekly standard).
 
 **Impact:** This dashboard was praised for the simplicity and insights generation — for multiple stakeholders.  It was also determined that this new process saved over 12 hours per month and exposed the data for further usages.
  
@@ -73,11 +73,11 @@ Here are some of the projects / analyses / processes I have helped enable over t
 
 ### Audit Analytics Program  
 
-**Problem:** Our company and audit department were both growing significantly, however our audit process was still very "old school" in a number of ways.  One key area of limitation was our lack of integrated audit analytics, which were being outsourced in a limited fashion.  The outsourced analytics were expensive, low quality and only applied where absolutely required.  
+**Problem:** Our company and audit department were both growing significantly, however our audit process was still very "old school" in a number of ways.  One key area of limitation was our lack of integrated audit analytics, which were being outsourced in a limited fashion.  The outsourced analytics were expensive, low quality, and only applied where absolutely required.  
 
-**Solution:**  With the support of audit leadership, I was able to insource our analytical efforts and develop our audit analtyics methodology.  We documented our processes and made key technology decisions to effectively and efficiently support our methodology and the audit process.  We also placed heavy emphasis on educating our audit professionals on the value of analytics in their audit process.   
+**Solution:**  With the support of audit leadership, I was able to insource our analytical efforts and develop our audit analytic's methodology.  We documented our processes and made key technology decisions to effectively and efficiently support our methodology and the audit process.  We also placed heavy emphasis on educating our audit professionals on the value of analytics in their audit process.   
 
-**Impact:**  Nearly all audits experienced valuable gains in efficiency and effectiveness, while the traditional audit process was transformed to emphasize the analytics component.  Some of my analytic deliverables were shared with the highest levels of company leadership, including the CFO, CEO and board of directors.  Within 2 years, two positions were created to support analytics exclusively in Internal Audit.  
+**Impact:**  Nearly all audits experienced valuable gains in efficiency and effectiveness, while the traditional audit process was transformed to emphasize the analytics component.  Some of my analytic deliverables were shared with the highest levels of company leadership, including the CFO, CEO, and Board of Directors.  Within 2 years, two positions were created to support analytics exclusively in Internal Audit.  
    
 **Tools:**  ACL, ACL Server, Python, R  
 
@@ -88,9 +88,9 @@ Here are some of the projects / analyses / processes I have helped enable over t
 
 ### Legal Contracts Management
 
-**Problem:** Legal was struggling to understand why the business was complaining about the speed at which contracts get approved.  They knew one thing — they were not issue — however had trouble proving this and locating the root-cause, primarily because their data wasn't robust enough to help them understand the timeline of legal actions on a contract.  
+**Problem:** Legal was struggling to understand why the business was complaining about the speed at which contracts get approved.  They didn't think they were the issue, however, they had trouble proving this and locating the root-cause.  This was due primarily because their data wasn't robust enough to help them understand the timeline of legal actions on a contract.  
 
-**Solution:** While we were not experts in the legal domain, we knew that the data needed some love.  We built a dataset that combined several different tables and required complex sorting prior to feature creation (primarily timing notation) at the right level of detail, such that tools like Tableau could consume.  While the primary ask was to help them find the root-cause of the bottleneck, we were also able to build some intuitive operational and exploratory dashboards that enabled better understanding of the state of contracts — for lawyers and leaders across the world.  
+**Solution:** While we were not experts in the legal domain, we knew the data needed augmentation.  We built a dataset that combined several different tables and required complex sorting prior to feature creation (primarily timing notation) at the right level of detail, such that tools like Tableau could consume.  While the primary task was to help them find the root-cause of the bottleneck, we were also able to build some intuitive operational and exploratory dashboards that enabled better understanding of the state of contracts — for lawyers and leaders across the world.  
  
 **Impact:** Initial hypothesis validation turned into an analytical toolset used by more than 35 people in over 12 countries.    
 
@@ -98,7 +98,7 @@ Here are some of the projects / analyses / processes I have helped enable over t
 
 ### Operational Scorecard
 
-**Problem:** There were 12 functions reporting to operational leadership on a monthly and quarterly basis.  Each group had their own slide deck, ranging from 1 slide to 35 slides, with endless styles of charts / tables / metrics / timing.  The manual nature and disorganized result was finally too much to take.  
+**Problem:** There were 12 functions reporting to operational leadership on a monthly and quarterly basis.  Each group had their own slide deck, ranging from 1 slide to 35 slides, with endless styles of charts / tables / metrics / timing.  The manual nature and disorganized result was weighing on the teams creating the materials each month.  
 
 **Solution:** The 12 groups were vastly different functions, however they were all reporting on metrics on the same time frames (mostly monthly, some quarterly).  Therefore we organized the various Key Performance Indicators (KPI), along with their metadata, into a KPI database that set the foundation for stable, consistent reporting.  
 
