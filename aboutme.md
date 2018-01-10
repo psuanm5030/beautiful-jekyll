@@ -25,4 +25,4 @@ Here are some key things to know about me:
 
 ## Freelance Work
 
-I offer my services (in my free time) through **Upwork**.  You can check me out [here](https://www.upwork.com/o/profiles/users/_~01309b702a65c82bfa/) and what I offer!
+I offer my services (in my free time) through **[VizElement (my small consultancy)](http://www.vizelement.com/)** or **[Upwork](https://www.upwork.com/o/profiles/users/_~01309b702a65c82bfa/)**.  Check me out and what I offer!
