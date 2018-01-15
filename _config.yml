@@ -28,7 +28,9 @@ navbar-links:
     - Professional: "professional-portfolio"
     - Personal: "personal-portfolio"
     - Speaking: "speaking"
-  Learning: "learning"
+  Expertise: 
+    - Skills: "skills"
+    - Learning Journey: "learning"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/andrewmiller09/"
     - Upwork: "https://www.upwork.com/o/profiles/users/_~01309b702a65c82bfa/"
