@@ -21,7 +21,7 @@ Here are some key things to know about me:
 - I love being engaged in my work and crave projects that require thinking.  
 - I enjoy building processes / capabilities - particularly analytics capabilities, where my experience lies.
 
-**Check my** [LinkedIn](https://www.linkedin.com/in/andrewmiller09/)!!!
+**Check my** [Skills page](/skills/) and [LinkedIn profile](https://www.linkedin.com/in/andrewmiller09/)!!!
 
 ## Freelance Work
 
