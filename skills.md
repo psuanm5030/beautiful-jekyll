@@ -8,7 +8,7 @@ I am amazed with the sheer number of "things" (technologies, tools, languages, a
 
 In the last few years, I have embraced learning a variety of new "things" to build out my personal skill-set, while giving myself the breadth of knowledge to be able to tackle any problem or approach any scenario with an expansive mindset.  
 
-I created this master listing for myself, as I frequently found myself listing my skills in various places, often forgetting a few "things" that I actually had some experience with or knowledge of.  *I also wanted to document some of my key intangible strengths, because these are often underappreciated and forgotten, despite their huge value to myself or my clients.*
+I created this master listing for myself, as I frequently found myself listing my skills in various places, often forgetting a few "things" that I actually had some experience with or knowledge of.  *I also wanted to document some of my key intangible strengths, because these are often under-appreciated and forgotten, despite their huge value to myself or my clients.*
 
 Without further ado, here is my listing the "things" that I felt I had experienced enough to consider it part of **my repertoire.**  
 
@@ -40,7 +40,7 @@ Soon after discovering Python, I took a course with MITx (through EdX) entitled 
 **Tool | Data Manipulation**  
 Discovered this tool in late 2017 when frustrated with Alteryx (expensive and poor sales tactics).  We all need a good data manipulation tool and EasyMorph does this good, however its real value is in its cheap and well-done extensibility.  My love of solutioning relies on tools like this to make solutions efficient, reliable, and automated.  
 
-### ![item](/psuanm5030.github.io/img/icons/user.png) Reporting Writing  
+### ![item](/psuanm5030.github.io/img/icons/user.png) Report Writing  
 **Skill | Intangible**  
 Similar to communication and presentation skills are report writing.  This skill is critical to developing insightful and consumable analyses.  I have always believed in ensuring that you have a goal, a process and a deliverable - and report writing in the canvas to all this work.  Over my years, I have practiced report writing with Internal Audits (i.e., developing and documenting audit findings for various processes and controls) to data analysis (i.e., understanding the domain, analyzing the data, and documenting / sharing insights).    
 
@@ -104,7 +104,7 @@ Flask is a fun little framework that I have used to develop basic web sites.  I 
 **Framework | Enablement (Code)**  
 I have always believed that using python or R requires a good foundational understanding of key system tools, such as pip and virtual environments.  They allow great efficiencies when using these tools.  RegEx is one of those languages that I have used extensively when in I was looking for fraud in internal audit.  I am no master of any of these system enablement tools but I do consider them critical to be able to write code efficiently and effectively.  
 
-### ![item](/psuanm5030.github.io/img/icons/005-computer-1) MongoDB  
+### ![item](/psuanm5030.github.io/img/icons/005-computer-1.png) MongoDB  
 **Language | Data Storage / Manipulation**  
 In 2015-2016 I completed Udacity's Data Analyst nanodegree, which was a robust program covering technologies and disciplines from data wrangling, exploratory data analysis, machine learning, data visualization, to A/B testing.  One of the tools that we used heavily for data wrangling component was MongoDB.  Using a document-based database was a new paradigm for me and I enjoyed it.  I even used it to store some of the data supporting my fantasy football analysis.    
 
