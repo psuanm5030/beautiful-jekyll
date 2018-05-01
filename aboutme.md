@@ -4,11 +4,11 @@ title: About me
 subtitle: So, what's my deal?
 ---
 
-![Andy Pic](/psuanm5030.github.io/img/profile-picture-768x1024.jpg){: style="width: 40%; float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;"} **My name is Andy Miller.**  
+![Andy Pic](/psuanm5030.github.io/img/Andy_Headshot_cropped.png){: style="width: 40%; float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;"} **My name is Andy Miller.**  
 
-I've been working for a Fortune 500 company leading their visualization and self-service analytics initiative.  My day-to-day consists of leading a “Center of Excellence,” engraining a culture of doing more with the data we have, utilizing our best resource — our people.  I also support executive dashboard projects.  I have a passion enabling visual analytics in a variety of ways.
+I've been working for a Fortune 500 company leading their visualization and self-service analytics initiative.  My day-to-day consists of leading a team of data scientists to drive value through improving corporate performance with analytics.  Further, I lead Mylan's global “Center of Excellence,” engraining a culture of doing more with the data we have, utilizing our best resource — our people.  I have a passion enabling visual analytics in a variety of ways.
 
-I first started my career becoming a CPA and auditor of financial, operational, and compliance related processes.  Then I changed paths, focusing on audit analytics, searching for fraud and inefficiencies using analytics.  This then led me to my current position as the leader of our Visualization and Self-Service department.  
+I first started my career becoming a CPA and auditor of financial, operational, and compliance related processes.  Then I changed paths, focusing on audit analytics, searching for fraud and inefficiencies using analytics.  This then led me to my current position as the leader of our Visualization and Self-Service department.
 
 Here are some key things to know about me: 
 
