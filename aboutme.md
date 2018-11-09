@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: So, what's my deal?
+subtitle: Get to know me!
 ---
 
 ![Andy Pic](/psuanm5030.github.io/img/Andy_Headshot_cropped.png){: style="width: 40%; float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;"} **My name is Andy Miller.**  
 
-I've been working for a Fortune 500 company leading their visualization and self-service analytics initiative.  My day-to-day consists of leading a team of data scientists to drive value through improving corporate performance with analytics.  Further, I lead Mylan's global “Center of Excellence,” engraining a culture of doing more with the data we have, utilizing our best resource — our people.  I have a passion enabling visual analytics in a variety of ways.
+I've currently lead data visualization for a Fortune 500 pharmaceutical company.  My day-to-day consists of leading a team of data scientists and visualization experts to drive value through improving corporate performance with analytics.  In this role, I lead Mylan's global “Center of Excellence,” engraining a culture of doing more with the data we have, utilizing our best resource — our people.  I have a passion enabling visual analytics in a variety of ways, using a variety of tools.
 
-I first started my career becoming a CPA and auditor of financial, operational, and compliance related processes.  Then I changed paths, focusing on audit analytics, searching for fraud and inefficiencies using analytics.  This then led me to my current position as the leader of our Visualization and Self-Service department.
+I began my career working for Ernst & Young, a large professional services firm, becoming a CPA while working as an auditor of financial, operational, and compliance related processes & controls.  I then took an opportunity at a young Internal Audit department within a growing pharmaceutical company where I led audits around the world.  I soon became infatuated with analytics and focused on developing an audit analytics program to enable more efficient and effective audit practices.  This led to me joining the Strategic Analytics function as a founding member.
 
 Here are some key things to know about me: 
 
